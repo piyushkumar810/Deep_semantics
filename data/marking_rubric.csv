@@ -1,0 +1,41 @@
+﻿question_id,concept_or_expected_point,marks
+Q1,Artificial Intelligence / AI,1
+Q1,computers,1
+Q1,understand human language,1
+Q1,interpret language,1
+Q1,process human language,1
+Q2,splitting text,1
+Q2,smaller units,1
+Q2,words,1
+Q2,phrases,1
+Q2,sentences,1
+Q3,resizing,1
+Q3,noise removal,1
+Q3,filtering,1
+Q3,normalization,1
+Q3,improve image quality,1
+Q4,deep learning,1
+Q4,architecture / neural network,1
+Q4,convolutional layers,1
+Q4,extract features,1
+Q4,images,1
+Q5,machine learning approach,1
+Q5,model learns / trains,1
+Q5,labelled data,1
+Q5,predict outputs,1
+Q5,unseen / new inputs,1
+Q6,identifying,1
+Q6,correcting / handling,1
+Q6,missing values,1
+Q6,duplicate records,1
+Q6,incorrect values / inconsistencies,1
+Q7,NLP technique,1
+Q7,identify,1
+Q7,opinions,1
+Q7,emotions,1
+Q7,positive / negative / neutral sentiment,1
+Q8,dividing an image,1
+Q8,meaningful regions,1
+Q8,segments,1
+Q8,identify objects,1
+Q8,areas of interest,1

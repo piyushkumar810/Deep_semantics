@@ -1,0 +1,25 @@
+student_id,extracted_student_id,question_id,extracted_question_id,subject,image_path,extracted_answer,expected_marks,predicted_marks,mark_difference,exact_match,expected_category,predicted_category,category_match,covered_concepts_count,missing_concepts_count,overall_similarity,elapsed_seconds
+MCA001,,Q1,,NLP,answer_images/MCA001_Q1.png,NLP is a branch of AI that helps computers understand and process human language.,4.0,5.0,1.0,False,Relevant,Relevant,True,5,0,76.6,34.31
+MCA002,,Q1,,NLP,answer_images/MCA002_Q1.png,NLP is used to process human language using computers.,3.0,3.0,0.0,True,Partially relevant,Partially relevant,True,3,2,68.3,0.69
+MCA003,,Q1,,NLP,answer_images/MCA003_Q1.png,Artificial Intelligence is used in robotics and machine learning.,0.0,2.0,2.0,False,Irrelevant,Partially relevant,False,2,3,31.4,0.56
+MCA001,,Q2,,NLP,answer_images/MCA001_Q2.png,Tokenization divides text into smaller units such as words and sentences.,4.0,4.0,0.0,True,Relevant,Relevant,True,4,1,76.5,0.32
+MCA002,,Q2,,NLP,answer_images/MCA002_Q2.png,Tokenization splits a paragraph into words.,3.0,2.0,1.0,False,Partially relevant,Partially relevant,True,2,3,61.7,0.49
+MCA003,,Q2,,NLP,answer_images/MCA003_Q2.png,Stemming converts words into their root form.,0.0,1.0,1.0,False,Irrelevant,Irrelevant,True,1,4,25.3,0.5
+MCA001,,Q3,,Computer Vision,answer_images/MCA001_Q3.png,"Image preprocessing includes resizing, filtering and removing noise to improve image quality.",4.0,4.0,0.0,True,Relevant,Relevant,True,4,1,80.6,0.31
+MCA002,,Q3,,Computer Vision,answer_images/MCA002_Q3.png,Images are normalized and resized before processing.,3.0,2.0,1.0,False,Partially relevant,Partially relevant,True,2,3,52.1,0.67
+MCA003,,Q3,,Computer Vision,answer_images/MCA003_Q3.png,CNN is used for image classification.,0.0,0.0,0.0,True,Irrelevant,Irrelevant,True,0,5,29.3,0.9
+MCA001,,Q4,,Computer Vision,answer_images/MCA001_Q4.png,CNN is a deep learning network that uses convolutional layers to extract features from images.,5.0,4.0,1.0,False,Relevant,Relevant,True,4,1,85.9,0.51
+MCA002,,Q4,,Computer Vision,answer_images/MCA002_Q4.png,CNN is a deep learning model used to process images.,3.0,2.0,1.0,False,Partially relevant,Partially relevant,True,2,3,57.9,0.66
+MCA003,,Q4,,Computer Vision,answer_images/MCA003_Q4.png,NLP is used to understand human language.,0.0,0.0,0.0,True,Irrelevant,Irrelevant,True,0,5,19.8,1.14
+MCA001,,Q5,,Machine Learning,answer_images/MCA001_Q5.png,Supervised learning trains a model using labelled data to predict outputs for new inputs.,5.0,4.0,1.0,False,Relevant,Relevant,True,4,1,69.9,0.39
+MCA002,,Q5,,Machine Learning,answer_images/MCA002_Q5.png,A model learns from examples with known answers and predicts results.,3.0,1.0,2.0,False,Partially relevant,Irrelevant,False,1,4,40.2,0.7
+MCA003,,Q5,,Machine Learning,answer_images/MCA003_Q5.png,Clustering groups unlabelled data.,0.0,1.0,1.0,False,Irrelevant,Irrelevant,True,1,4,25.6,0.69
+MCA001,,Q6,,Data Science,answer_images/MCA001_Q6.png,"Data cleaning identifies and corrects missing values, duplicates and inconsistent data.",4.0,4.0,0.0,True,Relevant,Relevant,True,4,1,71.2,0.4
+MCA002,,Q6,,Data Science,answer_images/MCA002_Q6.png,Data cleaning removes duplicate records and fixes incorrect values.,3.0,4.0,1.0,False,Partially relevant,Relevant,False,4,1,70.8,0.46
+MCA003,,Q6,,Data Science,answer_images/MCA003_Q6.png,Data visualization presents information using charts.,0.0,0.0,0.0,True,Irrelevant,Irrelevant,True,0,5,20.9,0.75
+MCA001,,Q7,,NLP,answer_images/MCA001_Q7.png,"Sentiment analysis is an NLP technique that identifies opinions and emotions as positive, negative or neutral.",5.0,4.0,1.0,False,Relevant,Relevant,True,4,1,84.6,0.35
+MCA002,,Q7,,NLP,answer_images/MCA002_Q7.png,It finds whether a text expresses a positive or negative opinion.,3.0,2.0,1.0,False,Partially relevant,Partially relevant,True,2,3,50.5,0.55
+MCA003,,Q7,,NLP,answer_images/MCA003_Q7.png,Tokenization splits sentences into words.,0.0,0.0,0.0,True,Irrelevant,Irrelevant,True,0,5,20.2,0.85
+MCA001,,Q8,,Computer Vision,answer_images/MCA001_Q8.png,Image segmentation divides an image into meaningful regions to identify objects.,4.0,4.0,0.0,True,Relevant,Relevant,True,4,1,72.8,0.4
+MCA002,,Q8,,Computer Vision,answer_images/MCA002_Q8.png,Segmentation separates an image into different parts.,3.0,2.0,1.0,False,Partially relevant,Partially relevant,True,2,3,60.4,0.73
+MCA003,,Q8,,Computer Vision,answer_images/MCA003_Q8.png,Image resizing changes the dimensions of an image.,0.0,0.0,0.0,True,Irrelevant,Irrelevant,True,0,5,33.1,0.9

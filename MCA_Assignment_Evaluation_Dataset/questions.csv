@@ -1,0 +1,9 @@
+﻿question_id,subject,question,maximum_marks,reference_answer
+Q1,NLP,What is Natural Language Processing?,5,"Natural Language Processing (NLP) is a branch of Artificial Intelligence that enables computers to understand, interpret and process human languages."
+Q2,NLP,What is tokenization?,5,"Tokenization is the process of splitting text into smaller units such as words, phrases or sentences."
+Q3,Computer Vision,What is image preprocessing?,5,"Image preprocessing involves operations such as resizing, noise removal, filtering and normalization to improve image quality before further processing."
+Q4,Computer Vision,What is a Convolutional Neural Network (CNN)?,5,A Convolutional Neural Network is a deep learning architecture that uses convolutional layers to automatically extract features from images.
+Q5,Machine Learning,What is supervised learning?,5,Supervised learning is a machine learning approach in which a model learns from labelled training data to predict outputs for unseen inputs.
+Q6,Data Science,What is data cleaning?,5,"Data cleaning is the process of identifying and correcting missing values, duplicate records, incorrect values and inconsistencies in a dataset."
+Q7,NLP,What is sentiment analysis?,5,"Sentiment analysis is an NLP technique used to identify opinions or emotions expressed in text, such as positive, negative or neutral sentiment."
+Q8,Computer Vision,What is image segmentation?,5,Image segmentation is the process of dividing an image into meaningful regions or segments to identify objects or areas of interest.
